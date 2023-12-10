@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - 2023-2024 ICPC Asia Jakarta Regional Contest Online Mirror Unrated ICPC Rules Teams Preferred/M. Triangle Construction" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Beta Round 4 Div 2 Only/A. Watermelon" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Beta Round 85 Div 2 Only/A. Petya and Strings" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - ICPC WF Moscow Invitational Contest - Online Mirror Unrated ICPC Rules Teams Preferred/C. Cactus Lady and her Cing" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 913 Div 3/A. Rook" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 913 Div 3/B. YetnotherrokenKeoard" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 913 Div 3/C. Removal of Unattractive Pairs" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Educational Codeforces Round 159 Rated for Div 2/B. Getting Points" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 914 Div 2/A. Forked!" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 914 Div 2/B. Collecting Game" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
